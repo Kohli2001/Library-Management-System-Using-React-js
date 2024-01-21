@@ -7,7 +7,7 @@ Build A WebApp using React js and Json-server and Api
   - Implemented React Router for seamless navigation.
   - Utilized React state for managing application state and implemented user-friendly interfaces for book management.
 - **Backend (JSON Server):**
-  - Configured a JSON file (`db.json`) to represent the data model, including books.
+  - Configured a JSON file (`data.json`) to represent the data model, including books.
   - Created a server using Node.js and JSON Server to handle CRUD operations.
 - **Integration:**
   - Established API calls between the frontend and backend using `axios`.
