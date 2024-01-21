@@ -1,0 +1,24 @@
+.readbooks h1,h2,h3,b{
+   color: rgb(227, 18, 18);
+}
+.readbooks span{
+    color: white;
+    padding-left: 20px;
+}
+.readbooks{
+    display: flex;
+    padding: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.image img{
+    height: 400px;
+    width: 400px;
+    margin-left: 20px;
+}
+.description{
+    /* border: 1px solid red; */
+    background-color: rgba(0, 0, 0, 0.734);
+    padding: 30px;
+    margin-left: 10px;
+}
